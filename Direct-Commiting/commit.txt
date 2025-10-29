@@ -1,1 +1,3 @@
 Hello in this folder we learn about direct commiting without adding git . command
+
+now i am commiting through direct commit 
