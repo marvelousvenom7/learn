@@ -1,0 +1,7 @@
+file created from worrking space
+
+i have learned all swutching methods 
+
+1. From staging area to working space from HEAD command
+2. from Local repo to Staging area from soft command
+3. From Local repo to Working area from mixed command
